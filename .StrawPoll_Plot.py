@@ -1,3 +1,8 @@
+# INCOMPLETE - MAY NOT WORK CORRECTLY - DRAFT FILE
+#
+#
+#
+#
 import matplotlib.pyplot as plt
 # import StrawPoll_Scraper as scraper
 
